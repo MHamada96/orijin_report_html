@@ -1,0 +1,18 @@
+.bg-green{
+    background-color:#B9D597;
+}
+.bg-yellow{
+    background-color:#ECEAC0;
+}
+.bg-gray{
+    background-color:#F0F0F0;
+}
+.txt-green{
+    color:#86B80B;
+}
+.table-bordered thead td, .table-bordered thead th {
+    border: none;
+}
+#logos td, #logos th {
+    border-top: none;
+}
